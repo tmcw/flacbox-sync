@@ -1,0 +1,15 @@
+{
+  "name": "flacbox-sync",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tom MacWright <tom@macwright.org>",
+  "license": "MIT",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "got": "^10.3.0",
+    "p-queue": "^6.2.1",
+    "prettier": "^1.19.1",
+    "recursive-readdir": "^2.2.2",
+    "rev-hash": "^3.0.0"
+  }
+}
